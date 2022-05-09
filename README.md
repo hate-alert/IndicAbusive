@@ -34,7 +34,7 @@ Check out the `Dataset ` folder to know more about how we curated the dataset fo
 :warning:
 
 -----------------------------------------
-***Models used for our this task***
+***Models used for our task***
 ------------------------------------------
 1. **[m-BERT](http://arxiv.org/abs/1810.04805)** is pre-trained on 104 languages with the largest Wikipedia utilizing a masked language modeling (MLM) objective. It is a stack of transformer encoder layers with 12 ``attention heads," i.e., fully connected neural networks augmented with a self-attention mechanism. m-BERT is restricted in the number of tokens it can handle (512 at max). To fine-tune m-BERT, we also add a fully connected layer with the output corresponding to the CLS token in the input. This CLS token output usually holds the representation of the sentence passed to the model. The m-BERT model has been well studied in abusive speech, has already surpassed existing baselines, and stands as a state-of-the-art.
 
@@ -51,7 +51,7 @@ Check out the `Dataset ` folder to know more about how we curated the dataset fo
 7. [Tamil-CodeMixed](https://huggingface.co/Hate-speech-CNERG/tamil-codemixed-abusive-MuRIL)
 8. [Urdu](https://huggingface.co/Hate-speech-CNERG/urdu-abusive-MuRIL)
 9. [Urdu-CodeMixed](https://huggingface.co/Hate-speech-CNERG/urdu-codemixed-abusive-MuRIL)
-10.[English](https://huggingface.co/Hate-speech-CNERG/english-abusive-MuRIL)
+10. [English](https://huggingface.co/Hate-speech-CNERG/english-abusive-MuRIL)
 11. [AllInOne](https://huggingface.co/Hate-speech-CNERG/indic-abusive-allInOne-MuRIL)
 
 ### For more details about our paper
