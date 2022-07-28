@@ -52,5 +52,5 @@
    **(Ur-En) [Rizwan et al.](https://aclanthology.org/2020.emnlp-main.197/)** --> [Dataset Link](https://github.com/haroonshakeel/roman_urdu_hate_speech)
    
   
- <p align="center"><img src="datasetStat.JPG" width="350" height="300"></p>
+ <p align="center"><img src="datasetStat.JPG" width="450" height="350"></p>
 
