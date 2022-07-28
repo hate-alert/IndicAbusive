@@ -33,15 +33,15 @@
    
    **(Ma-En) [Chakravarthi et al.](https://dl.acm.org/doi/abs/10.1145/3441501.3441517)** --> [Dataset Link](https://competitions.codalab.org/competitions/25295)
  
- 6. **Marathi**
+6. **Marathi**
 
    **(Mr) [Gaikwad et al.](https://arxiv.org/abs/2109.03552)** --> [Dataset Link](https://github.com/tharindudr/MOLD)
    
- 7. **Tamil**
+7. **Tamil**
 
    **(Ta-En) [Chakravarthi et al.](https://aclanthology.org/2021.dravidianlangtech-1.17/)** --> [Dataset Link](https://competitions.codalab.org/competitions/27654)
    
- 8. **Urdu**
+8. **Urdu**
 
     **(Ur) [Akhter et al.](https://ieeexplore.ieee.org/document/9094176)** --> [Dataset Link]( https://github.com/pervezbcs/Urdu-Abusive-Dataset)
    
