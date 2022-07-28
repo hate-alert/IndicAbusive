@@ -20,8 +20,8 @@ Solving the problem of **abusive speech detection** in **8 (10 types) languages*
 ------------------------------------------
 ~~~
 
-./Dataset   --> Coming Soon
-./Codes     --> Coming Soon
+./Dataset   --> Contains the dataset related details.
+./Codes     --> Contains the codes
 ~~~
 ## Requirements 
 
