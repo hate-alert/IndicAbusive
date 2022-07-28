@@ -31,7 +31,7 @@
 
    **(Ma-En) [Chakravarthi et al.](https://aclanthology.org/2021.dravidianlangtech-1.17/)** --> [Dataset Link](https://competitions.codalab.org/competitions/27654)
    
-   **(Ma-En) [Chakravarthi et al.](https://dl.acm.org/doi/abs/10.1145/3441501.3441517)** --> [Dataset Link](https://competitions.codalab.org/competitions/25295)
+   **(Ma-En) [Mandl et al.](https://dl.acm.org/doi/abs/10.1145/3441501.3441517)** --> [Dataset Link](https://competitions.codalab.org/competitions/25295)
  
 6. **Marathi**
 
@@ -50,3 +50,7 @@
    **(Ur-En) [Khan et al.](https://dl.acm.org/doi/10.1145/3414524)** --> [Dataset Link](https://www.kaggle.com/datasets/drkhurramshahzad/hate-speech-roman-urdu)
    
    **(Ur-En) [Rizwan et al.](https://aclanthology.org/2020.emnlp-main.197/)** --> [Dataset Link](https://github.com/haroonshakeel/roman_urdu_hate_speech)
+   
+  
+ <p align="center"><img src="datasetStat.JPG" width="350" height="300"></p>
+
